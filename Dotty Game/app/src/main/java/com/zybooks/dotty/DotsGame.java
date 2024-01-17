@@ -16,6 +16,7 @@ public class DotsGame {
 
     private int mMovesLeft;
     private int mScore;
+    private int highScore;
     private Dot[][] mDots;
     private ArrayList<Dot> mSelectedDots;
 
